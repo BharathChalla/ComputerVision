@@ -1,0 +1,3 @@
+python -u test.py
+Loading model from checkpoint.pkl
+Test-set accuracy: 50.74

@@ -1,0 +1,435 @@
+python -u train.py
+Starting epoch 1 / 33
+  Iteration 0 / 225, loss = 2.302586111561492
+  Iteration 25 / 225, loss = 2.298762013365968
+  Iteration 50 / 225, loss = 2.2638848673684944
+  Iteration 75 / 225, loss = 2.220575148975513
+  Iteration 100 / 225, loss = 2.1073271336238686
+  Iteration 125 / 225, loss = 2.087271177256414
+  Iteration 150 / 225, loss = 2.1586556148160034
+  Iteration 175 / 225, loss = 2.2634584018745745
+  Iteration 200 / 225, loss = 1.984910200587814
+Checking accuracy
+  Train: 27.75
+  Val:   27.90
+Starting epoch 2 / 33
+  Iteration 0 / 225, loss = 1.8908113721547744
+  Iteration 25 / 225, loss = 2.076719397034772
+  Iteration 50 / 225, loss = 2.127064469424731
+  Iteration 75 / 225, loss = 1.9717433743615438
+  Iteration 100 / 225, loss = 1.8575454393719872
+  Iteration 125 / 225, loss = 1.8676489784148869
+  Iteration 150 / 225, loss = 1.810913235077748
+  Iteration 175 / 225, loss = 1.9510105444413064
+  Iteration 200 / 225, loss = 1.7946925271835679
+Checking accuracy
+  Train: 34.44
+  Val:   34.64
+Starting epoch 3 / 33
+  Iteration 0 / 225, loss = 1.8274965838405355
+  Iteration 25 / 225, loss = 1.8157845065287899
+  Iteration 50 / 225, loss = 1.7694152390603644
+  Iteration 75 / 225, loss = 1.9261603023026264
+  Iteration 100 / 225, loss = 1.9254951039387318
+  Iteration 125 / 225, loss = 1.6590271254368552
+  Iteration 150 / 225, loss = 1.6793253188292903
+  Iteration 175 / 225, loss = 2.016445336409535
+  Iteration 200 / 225, loss = 1.8773274851525712
+Checking accuracy
+  Train: 33.34
+  Val:   33.12
+Starting epoch 4 / 33
+  Iteration 0 / 225, loss = 1.7340135998249533
+  Iteration 25 / 225, loss = 1.8367983904819922
+  Iteration 50 / 225, loss = 1.8049569152210285
+  Iteration 75 / 225, loss = 1.8646794582891404
+  Iteration 100 / 225, loss = 1.7191491698416865
+  Iteration 125 / 225, loss = 1.7677101005605247
+  Iteration 150 / 225, loss = 1.690178270838877
+  Iteration 175 / 225, loss = 1.789456079215358
+  Iteration 200 / 225, loss = 1.7710677140715152
+Checking accuracy
+  Train: 38.21
+  Val:   37.96
+Starting epoch 5 / 33
+  Iteration 0 / 225, loss = 1.8493794405866537
+  Iteration 25 / 225, loss = 1.8000669355884176
+  Iteration 50 / 225, loss = 1.879541944542021
+  Iteration 75 / 225, loss = 1.8591637705008894
+  Iteration 100 / 225, loss = 1.7220650280173468
+  Iteration 125 / 225, loss = 1.9758595504162684
+  Iteration 150 / 225, loss = 1.7720429522626169
+  Iteration 175 / 225, loss = 1.6957547784660179
+  Iteration 200 / 225, loss = 1.606456224038459
+Checking accuracy
+  Train: 39.68
+  Val:   38.82
+Starting epoch 6 / 33
+  Iteration 0 / 225, loss = 1.7790000234340935
+  Iteration 25 / 225, loss = 1.7146825920886866
+  Iteration 50 / 225, loss = 1.9377837229947903
+  Iteration 75 / 225, loss = 1.7226770934054616
+  Iteration 100 / 225, loss = 1.75201422739648
+  Iteration 125 / 225, loss = 1.700220682591761
+  Iteration 150 / 225, loss = 1.7564854753100938
+  Iteration 175 / 225, loss = 1.6603746891532924
+  Iteration 200 / 225, loss = 1.5851378346154879
+Checking accuracy
+  Train: 42.28
+  Val:   42.22
+Starting epoch 7 / 33
+  Iteration 0 / 225, loss = 1.5503061664420354
+  Iteration 25 / 225, loss = 1.7201312976295675
+  Iteration 50 / 225, loss = 1.6755359492376563
+  Iteration 75 / 225, loss = 1.7046792267993371
+  Iteration 100 / 225, loss = 1.697450965870442
+  Iteration 125 / 225, loss = 1.5648482229967642
+  Iteration 150 / 225, loss = 1.640017385314431
+  Iteration 175 / 225, loss = 1.6564959333758413
+  Iteration 200 / 225, loss = 1.6059205151259826
+Checking accuracy
+  Train: 40.22
+  Val:   40.46
+Starting epoch 8 / 33
+  Iteration 0 / 225, loss = 1.5985020474971166
+  Iteration 25 / 225, loss = 1.6352996955955532
+  Iteration 50 / 225, loss = 1.6531929036155188
+  Iteration 75 / 225, loss = 1.542319528689636
+  Iteration 100 / 225, loss = 1.6163779462356924
+  Iteration 125 / 225, loss = 1.5996814656508003
+  Iteration 150 / 225, loss = 1.5876887323354576
+  Iteration 175 / 225, loss = 1.575958890230331
+  Iteration 200 / 225, loss = 1.652922350181602
+Checking accuracy
+  Train: 44.09
+  Val:   43.70
+Starting epoch 9 / 33
+  Iteration 0 / 225, loss = 1.6023965452233353
+  Iteration 25 / 225, loss = 1.594501606897
+  Iteration 50 / 225, loss = 1.5517388710965474
+  Iteration 75 / 225, loss = 1.6109097984981697
+  Iteration 100 / 225, loss = 1.662838454909546
+  Iteration 125 / 225, loss = 1.5401788365835847
+  Iteration 150 / 225, loss = 1.5302505646975075
+  Iteration 175 / 225, loss = 1.4934760844838104
+  Iteration 200 / 225, loss = 1.6223746125606646
+Checking accuracy
+  Train: 41.22
+  Val:   39.92
+Starting epoch 10 / 33
+  Iteration 0 / 225, loss = 1.6019660931086515
+  Iteration 25 / 225, loss = 1.5128135159704117
+  Iteration 50 / 225, loss = 1.5463711575856343
+  Iteration 75 / 225, loss = 1.5637015272813581
+  Iteration 100 / 225, loss = 1.6164218436733728
+  Iteration 125 / 225, loss = 1.3923639463706088
+  Iteration 150 / 225, loss = 1.393368643860512
+  Iteration 175 / 225, loss = 1.6501042017929035
+  Iteration 200 / 225, loss = 1.7148030567706107
+Checking accuracy
+  Train: 46.21
+  Val:   45.02
+Starting epoch 11 / 33
+  Iteration 0 / 225, loss = 1.4380271520847714
+  Iteration 25 / 225, loss = 1.4421639395363333
+  Iteration 50 / 225, loss = 1.618307536428709
+  Iteration 75 / 225, loss = 1.599653595953108
+  Iteration 100 / 225, loss = 1.5832487986549946
+  Iteration 125 / 225, loss = 1.5588913793734394
+  Iteration 150 / 225, loss = 1.4346804995510538
+  Iteration 175 / 225, loss = 1.6316976069188192
+  Iteration 200 / 225, loss = 1.5370980517513375
+Checking accuracy
+  Train: 45.51
+  Val:   44.62
+Starting epoch 12 / 33
+  Iteration 0 / 225, loss = 1.5363964489481254
+  Iteration 25 / 225, loss = 1.4396780965668496
+  Iteration 50 / 225, loss = 1.7661155634585741
+  Iteration 75 / 225, loss = 1.6138669120300033
+  Iteration 100 / 225, loss = 1.4836683967602566
+  Iteration 125 / 225, loss = 1.5897381569066429
+  Iteration 150 / 225, loss = 1.6596182758826723
+  Iteration 175 / 225, loss = 1.5495293617097468
+  Iteration 200 / 225, loss = 1.4518376983001882
+Checking accuracy
+  Train: 43.02
+  Val:   42.50
+Starting epoch 13 / 33
+  Iteration 0 / 225, loss = 1.7255950190073128
+  Iteration 25 / 225, loss = 1.4704277538150843
+  Iteration 50 / 225, loss = 1.6405730296730328
+  Iteration 75 / 225, loss = 1.5637120895492802
+  Iteration 100 / 225, loss = 1.5214081645645192
+  Iteration 125 / 225, loss = 1.4908487345713968
+  Iteration 150 / 225, loss = 1.4211380024124012
+  Iteration 175 / 225, loss = 1.7652453255583471
+  Iteration 200 / 225, loss = 1.5803008818360238
+Checking accuracy
+  Train: 43.20
+  Val:   42.26
+Starting epoch 14 / 33
+  Iteration 0 / 225, loss = 1.6591501602115186
+  Iteration 25 / 225, loss = 1.5803565488484586
+  Iteration 50 / 225, loss = 1.3446256518616677
+  Iteration 75 / 225, loss = 1.5809649783545319
+  Iteration 100 / 225, loss = 1.5796496343524644
+  Iteration 125 / 225, loss = 1.5032250244478713
+  Iteration 150 / 225, loss = 1.692101079652678
+  Iteration 175 / 225, loss = 1.352426104398955
+  Iteration 200 / 225, loss = 1.420197538336005
+Checking accuracy
+  Train: 46.64
+  Val:   44.94
+Starting epoch 15 / 33
+  Iteration 0 / 225, loss = 1.5926914548315354
+  Iteration 25 / 225, loss = 1.5321971810809851
+  Iteration 50 / 225, loss = 1.384649382406432
+  Iteration 75 / 225, loss = 1.6003953535526672
+  Iteration 100 / 225, loss = 1.4961690909308498
+  Iteration 125 / 225, loss = 1.3983766131654958
+  Iteration 150 / 225, loss = 1.5402816056874609
+  Iteration 175 / 225, loss = 1.550409801578958
+  Iteration 200 / 225, loss = 1.364672970221575
+Checking accuracy
+  Train: 46.21
+  Val:   44.98
+Starting epoch 16 / 33
+  Iteration 0 / 225, loss = 1.4290423226145879
+  Iteration 25 / 225, loss = 1.4488715390452496
+  Iteration 50 / 225, loss = 1.4255846218412307
+  Iteration 75 / 225, loss = 1.3886223526413133
+  Iteration 100 / 225, loss = 1.621858731136324
+  Iteration 125 / 225, loss = 1.5396698265178022
+  Iteration 150 / 225, loss = 1.574638499902315
+  Iteration 175 / 225, loss = 1.5212762085615987
+  Iteration 200 / 225, loss = 1.5291107146050988
+Checking accuracy
+  Train: 46.57
+  Val:   45.38
+Starting epoch 17 / 33
+  Iteration 0 / 225, loss = 1.4599169519991133
+  Iteration 25 / 225, loss = 1.3848974817017854
+  Iteration 50 / 225, loss = 1.463864251873752
+  Iteration 75 / 225, loss = 1.5430779131856374
+  Iteration 100 / 225, loss = 1.3864825106866197
+  Iteration 125 / 225, loss = 1.6192058942513934
+  Iteration 150 / 225, loss = 1.3679000151663914
+  Iteration 175 / 225, loss = 1.4638078725562582
+  Iteration 200 / 225, loss = 1.54174049989615
+Checking accuracy
+  Train: 50.21
+  Val:   48.48
+Starting epoch 18 / 33
+  Iteration 0 / 225, loss = 1.3912869924755549
+  Iteration 25 / 225, loss = 1.4188305631432672
+  Iteration 50 / 225, loss = 1.3579861797743071
+  Iteration 75 / 225, loss = 1.5344445891463958
+  Iteration 100 / 225, loss = 1.5868876893612904
+  Iteration 125 / 225, loss = 1.5877340140377931
+  Iteration 150 / 225, loss = 1.5768638962319879
+  Iteration 175 / 225, loss = 1.3721308753669659
+  Iteration 200 / 225, loss = 1.4578072954385741
+Checking accuracy
+  Train: 46.55
+  Val:   44.44
+Starting epoch 19 / 33
+  Iteration 0 / 225, loss = 1.3972800054846186
+  Iteration 25 / 225, loss = 1.4603970770795611
+  Iteration 50 / 225, loss = 1.4226033852895956
+  Iteration 75 / 225, loss = 1.5734257422048905
+  Iteration 100 / 225, loss = 1.3693217728707614
+  Iteration 125 / 225, loss = 1.46103517628837
+  Iteration 150 / 225, loss = 1.4459001068914132
+  Iteration 175 / 225, loss = 1.5982043267571204
+  Iteration 200 / 225, loss = 1.2565160781644713
+Checking accuracy
+  Train: 49.93
+  Val:   48.42
+Starting epoch 20 / 33
+  Iteration 0 / 225, loss = 1.4703173837398704
+  Iteration 25 / 225, loss = 1.388901842395021
+  Iteration 50 / 225, loss = 1.3401560646087143
+  Iteration 75 / 225, loss = 1.5538615765541217
+  Iteration 100 / 225, loss = 1.6109944834316938
+  Iteration 125 / 225, loss = 1.4210250640837638
+  Iteration 150 / 225, loss = 1.355480149482019
+  Iteration 175 / 225, loss = 1.3190932910792157
+  Iteration 200 / 225, loss = 1.306459867806939
+Checking accuracy
+  Train: 51.53
+  Val:   48.58
+Starting epoch 21 / 33
+  Iteration 0 / 225, loss = 1.3755016248702863
+  Iteration 25 / 225, loss = 1.4604171811539786
+  Iteration 50 / 225, loss = 1.485150736599395
+  Iteration 75 / 225, loss = 1.3973996927032277
+  Iteration 100 / 225, loss = 1.47554680367394
+  Iteration 125 / 225, loss = 1.5234579256763123
+  Iteration 150 / 225, loss = 1.4009584789736227
+  Iteration 175 / 225, loss = 1.3059351163027224
+  Iteration 200 / 225, loss = 1.4317251213479971
+Checking accuracy
+  Train: 50.02
+  Val:   47.54
+Starting epoch 22 / 33
+  Iteration 0 / 225, loss = 1.4636100762874162
+  Iteration 25 / 225, loss = 1.4285213340380476
+  Iteration 50 / 225, loss = 1.4111576887732404
+  Iteration 75 / 225, loss = 1.4906579338609527
+  Iteration 100 / 225, loss = 1.3367011274664364
+  Iteration 125 / 225, loss = 1.3257524580740565
+  Iteration 150 / 225, loss = 1.2587317668191653
+  Iteration 175 / 225, loss = 1.399078056980777
+  Iteration 200 / 225, loss = 1.484496189322214
+Checking accuracy
+  Train: 48.97
+  Val:   46.96
+Starting epoch 23 / 33
+  Iteration 0 / 225, loss = 1.4717091303784038
+  Iteration 25 / 225, loss = 1.5525253498398155
+  Iteration 50 / 225, loss = 1.5052398830907752
+  Iteration 75 / 225, loss = 1.4327839495152463
+  Iteration 100 / 225, loss = 1.6583902908774801
+  Iteration 125 / 225, loss = 1.3520723989939327
+  Iteration 150 / 225, loss = 1.4274760337539163
+  Iteration 175 / 225, loss = 1.4756671825072025
+  Iteration 200 / 225, loss = 1.3869855799112145
+Checking accuracy
+  Train: 50.44
+  Val:   47.66
+Starting epoch 24 / 33
+  Iteration 0 / 225, loss = 1.4252076439685217
+  Iteration 25 / 225, loss = 1.455872031945917
+  Iteration 50 / 225, loss = 1.460070308548812
+  Iteration 75 / 225, loss = 1.559630610592303
+  Iteration 100 / 225, loss = 1.366727093267723
+  Iteration 125 / 225, loss = 1.5063143214667771
+  Iteration 150 / 225, loss = 1.158761990880505
+  Iteration 175 / 225, loss = 1.5055412187396435
+  Iteration 200 / 225, loss = 1.3927456475200195
+Checking accuracy
+  Train: 51.52
+  Val:   48.04
+Starting epoch 25 / 33
+  Iteration 0 / 225, loss = 1.3512735209285072
+  Iteration 25 / 225, loss = 1.45415728863357
+  Iteration 50 / 225, loss = 1.4854633658955592
+  Iteration 75 / 225, loss = 1.4638875997886345
+  Iteration 100 / 225, loss = 1.4341113901924316
+  Iteration 125 / 225, loss = 1.4430722715170619
+  Iteration 150 / 225, loss = 1.381251022873651
+  Iteration 175 / 225, loss = 1.4632221058231218
+  Iteration 200 / 225, loss = 1.3873392409184964
+Checking accuracy
+  Train: 52.54
+  Val:   49.36
+Starting epoch 26 / 33
+  Iteration 0 / 225, loss = 1.3241243750818226
+  Iteration 25 / 225, loss = 1.3579092759071847
+  Iteration 50 / 225, loss = 1.3204550286627632
+  Iteration 75 / 225, loss = 1.364008532472866
+  Iteration 100 / 225, loss = 1.4996869224622296
+  Iteration 125 / 225, loss = 1.4682122952614995
+  Iteration 150 / 225, loss = 1.4143317197670826
+  Iteration 175 / 225, loss = 1.5202897814095255
+  Iteration 200 / 225, loss = 1.3357904995638257
+Checking accuracy
+  Train: 52.87
+  Val:   50.40
+Starting epoch 27 / 33
+  Iteration 0 / 225, loss = 1.2657359713554102
+  Iteration 25 / 225, loss = 1.4828430447445586
+  Iteration 50 / 225, loss = 1.382593367113191
+  Iteration 75 / 225, loss = 1.3730727434842624
+  Iteration 100 / 225, loss = 1.2471408065194023
+  Iteration 125 / 225, loss = 1.3585882834775729
+  Iteration 150 / 225, loss = 1.4272017557405234
+  Iteration 175 / 225, loss = 1.3203374148847606
+  Iteration 200 / 225, loss = 1.4310661269476752
+Checking accuracy
+  Train: 49.62
+  Val:   46.54
+Starting epoch 28 / 33
+  Iteration 0 / 225, loss = 1.403631470517675
+  Iteration 25 / 225, loss = 1.372163552909178
+  Iteration 50 / 225, loss = 1.4978924920201013
+  Iteration 75 / 225, loss = 1.4318539808779236
+  Iteration 100 / 225, loss = 1.465600447441364
+  Iteration 125 / 225, loss = 1.3817929484069362
+  Iteration 150 / 225, loss = 1.46565550977189
+  Iteration 175 / 225, loss = 1.296204610941582
+  Iteration 200 / 225, loss = 1.332537904300587
+Checking accuracy
+  Train: 51.42
+  Val:   47.52
+Starting epoch 29 / 33
+  Iteration 0 / 225, loss = 1.3802997696840613
+  Iteration 25 / 225, loss = 1.6225774784321412
+  Iteration 50 / 225, loss = 1.2613086562229694
+  Iteration 75 / 225, loss = 1.3853514934780953
+  Iteration 100 / 225, loss = 1.2920320498523767
+  Iteration 125 / 225, loss = 1.1907764180517586
+  Iteration 150 / 225, loss = 1.3049860300337999
+  Iteration 175 / 225, loss = 1.4794456652138706
+  Iteration 200 / 225, loss = 1.4613888221846163
+Checking accuracy
+  Train: 53.31
+  Val:   49.80
+Starting epoch 30 / 33
+  Iteration 0 / 225, loss = 1.3723581760891623
+  Iteration 25 / 225, loss = 1.4714526665580663
+  Iteration 50 / 225, loss = 1.3029174096061946
+  Iteration 75 / 225, loss = 1.2563270303855125
+  Iteration 100 / 225, loss = 1.330591749769978
+  Iteration 125 / 225, loss = 1.3279415817522493
+  Iteration 150 / 225, loss = 1.3683986481341113
+  Iteration 175 / 225, loss = 1.3092339113849087
+  Iteration 200 / 225, loss = 1.3418616134444379
+Checking accuracy
+  Train: 49.53
+  Val:   46.84
+Starting epoch 31 / 33
+  Iteration 0 / 225, loss = 1.2492618165232878
+  Iteration 25 / 225, loss = 1.293604192390886
+  Iteration 50 / 225, loss = 1.3040750832390102
+  Iteration 75 / 225, loss = 1.247440768165091
+  Iteration 100 / 225, loss = 1.2882689233530809
+  Iteration 125 / 225, loss = 1.3169987669649823
+  Iteration 150 / 225, loss = 1.3266821519283853
+  Iteration 175 / 225, loss = 1.3486202249361483
+  Iteration 200 / 225, loss = 1.329626119762327
+Checking accuracy
+  Train: 51.46
+  Val:   47.52
+Starting epoch 32 / 33
+  Iteration 0 / 225, loss = 1.2892393292678266
+  Iteration 25 / 225, loss = 1.465370286119114
+  Iteration 50 / 225, loss = 1.5055877413696932
+  Iteration 75 / 225, loss = 1.356552247491519
+  Iteration 100 / 225, loss = 1.293394877894756
+  Iteration 125 / 225, loss = 1.3361735775359802
+  Iteration 150 / 225, loss = 1.2653484218456765
+  Iteration 175 / 225, loss = 1.329348118623597
+  Iteration 200 / 225, loss = 1.2141509482754476
+Checking accuracy
+  Train: 51.72
+  Val:   47.52
+Starting epoch 33 / 33
+  Iteration 0 / 225, loss = 1.3414362704713407
+  Iteration 25 / 225, loss = 1.2047680397916432
+  Iteration 50 / 225, loss = 1.2418392879456701
+  Iteration 75 / 225, loss = 1.2161355611153475
+  Iteration 100 / 225, loss = 1.2666940087360028
+  Iteration 125 / 225, loss = 1.451035636811018
+  Iteration 150 / 225, loss = 1.2858577039000514
+  Iteration 175 / 225, loss = 1.2070854031724014
+  Iteration 200 / 225, loss = 1.3632828487502529
+Checking accuracy
+  Train: 55.94
+  Val:   51.00
+Saving plot to plot.pdf
+Saving model checkpoint to checkpoint.pkl
+Model Training time is 93.33736300468445
+
+Process finished with exit code 0
