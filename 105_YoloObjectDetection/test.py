@@ -125,7 +125,7 @@ if __name__ == '__main__':
         print('image %d/%d, %d objects detected' % (i + 1, epoch_size, detections.shape[0]))
 
         # visualization, uncomment the follow line to see the detection results
-        # visualize(image, gt, detections)
+        visualize(image, gt, detections)
 
     # evaluation
     rec, prec, ap = voc_eval(results_gt, results_pred)
