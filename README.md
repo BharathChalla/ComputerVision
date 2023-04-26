@@ -57,7 +57,7 @@
 
 ## 105 - YOLO Object Detection
 ### Ground Truth vs Predicted Bounding Boxes
-<p>
+<p align="center">
   <img src="./105_YoloObjectDetection/output/gt_vs_pred.png" alt="TestAP"/>
 </p>
 
